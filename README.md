@@ -21,3 +21,6 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 <li>OpenCV</li>
 </ul>
 
+pip install opencv-python
+
+
