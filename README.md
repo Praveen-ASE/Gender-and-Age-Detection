@@ -51,6 +51,17 @@ For face detection, we have a .pb file- this is a protobuf file (protocol buffer
 
 Note: The image should be present in the same folder where all the files are present
 
+<p><li>Detecting Gender and Age of face through webcam use command:</li></p>
+<ul>
+<h5><b>python gad.py</b></h5>
+</ul>
+<p><li>Press <mark>Ctrl-C</mark> to stop the program execution</li></p>
+
+
+
+
+
+
 
 
 
