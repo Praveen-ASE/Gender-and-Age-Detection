@@ -49,6 +49,7 @@ For face detection, we have a .pb file- this is a protobuf file (protocol buffer
 <h5><b>python gad.py --image <image-name></b></h5>
 </ul>
 
+Note: The image should be present in the same folder where all the files are present
 
 
 
