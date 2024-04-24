@@ -45,7 +45,7 @@ For face detection, we have a .pb file- this is a protobuf file (protocol buffer
 <p><li>Download my repository</li></p>
 <p><li>Open your Command Prompt or Terminal and change directory to the folder where all the files are present.</li></p>
 <p><li>Detecting Gender and Age of face in an image use command</li></p>
-    <h5><b>python gad.py --image <image_name></b></h5>
+<dl><h5><b>python gad.py --image <image_name></b></h5></dl>
 
 
 
