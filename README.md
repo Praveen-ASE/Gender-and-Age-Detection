@@ -15,6 +15,14 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 
 For this python project, I had used the Adience dataset; the dataset is available in the public domain and you can find it <a href = "https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification">here</a>. This dataset serves as a benchmark for face photos and is inclusive of various real-world imaging conditions like noise, lighting, pose, and appearance. The images have been collected from Flickr albums and distributed under the Creative Commons (CC) license. It has a total of 26,580 photos of 2,284 subjects in eight age ranges (as mentioned above) and is about 1GB in size. The models I used had been trained on this dataset.
 
+<h3>Technology Used:</h3><hr>
+
+<li><p>Programming Language : Python </p></li>
+<li><p>Version : Python 3.10 </p></li>
+<li><p>Tools Used :  OpenCV and argparse </p></li>
+<li><p>Operating System : Windows </p></li>
+
+
 <h3>Python Libraries Required:<h3><hr>
 
 <ul>
