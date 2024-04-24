@@ -55,7 +55,7 @@ Note: The image should be present in the same folder where all the files are pre
 <ul>
 <h5><b>python gad.py</b></h5>
 </ul>
-<p><li>Press <mark>Ctrl-C</mark> to stop the program execution</li></p>
+<p><li>Press Ctrl-C to stop the program execution</li></p>
 
 
 
