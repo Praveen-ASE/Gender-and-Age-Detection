@@ -17,7 +17,7 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 
 <h3>Technology Used:</h3><hr>
 
-<li><p>Programming Language : Python</p></li>
+<p><li>Programming Language : Python</li></p>
 Version : Python 3.10 
 Tools Used :  OpenCV and argparse
 Operating System : Windows 
