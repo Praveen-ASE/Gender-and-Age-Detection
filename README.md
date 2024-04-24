@@ -63,8 +63,7 @@ Note: The image should be present in the same folder where all the files are pre
 ![myphoto](https://github.com/Praveen-ASE/Gender-and-Age-Detection-/assets/148997369/e9048a0a-a9bd-4ec8-af6b-1b8f48f5d611)
 
 
-
-
+![Screenshot (35)](https://github.com/Praveen-ASE/Gender-and-Age-Detection-/assets/148997369/d49558fe-1d26-4478-909f-560c730c9435)
 
 
 
