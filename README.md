@@ -68,7 +68,9 @@ Note: The image should be present in the same folder where all the files are pre
 ![Screenshot (35)](https://github.com/Praveen-ASE/Gender-and-Age-Detection-/assets/148997369/d49558fe-1d26-4478-909f-560c730c9435)
 
 
+<h3>Conclusion:</h3><hr>
 
+The age and gender detection using OpenCV will be very beneficial in authorization purposes, medical purposes or surveillance purposes. The CNN and OpenCV combined can give great results. The OIU-Adience dataset used in the project gives result with greater accuracy. We used protocol buffer and  caffee  model files. This project shows how OpenCV can be used for face detection without any other complicated process.
 
 
 
