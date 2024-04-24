@@ -59,6 +59,8 @@ Note: The image should be present in the same folder where all the files are pre
 
 <h3>Working:</h3><hr>
 
+<img src = "C:\Users\dell\Pictures\Screenshots\myphoto.png">
+
 
 
 
