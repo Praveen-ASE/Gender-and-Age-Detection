@@ -59,7 +59,8 @@ Note: The image should be present in the same folder where all the files are pre
 
 <h3>Working:</h3><hr>
 
-<img src = "C:\Users\dell\Pictures\Screenshots\myphoto.png"></img>
+
+![myphoto](https://github.com/Praveen-ASE/Gender-and-Age-Detection-/assets/148997369/e9048a0a-a9bd-4ec8-af6b-1b8f48f5d611)
 
 
 
