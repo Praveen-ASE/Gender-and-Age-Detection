@@ -17,10 +17,10 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 
 <h3>Technology Used:</h3><hr>
 
-<li><p>Programming Language : Python </p></li>
-<li><p>Version : Python 3.10 </p></li>
-<li><p>Tools Used :  OpenCV and argparse </p></li>
-<li><p>Operating System : Windows </p></li>
+<li><p>Programming Language : Python</p></li>
+Version : Python 3.10 
+Tools Used :  OpenCV and argparse
+Operating System : Windows 
 
 
 <h3>Python Libraries Required:<h3><hr>
