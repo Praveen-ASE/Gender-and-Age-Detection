@@ -37,7 +37,7 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 
 <h3>Project Contents:<h3><hr>
 
-<b><li>opencv_face_detector.pbtxt</li></b>
+<p><li>opencv_face_detector.pbtxt</li></p>
 opencv_face_detector_uint8.pb
 age_deploy.prototxt
 age_net.caffemodel
