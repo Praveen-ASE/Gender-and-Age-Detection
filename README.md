@@ -35,7 +35,7 @@ For this python project, I had used the Adience dataset; the dataset is availabl
 <h5>pip install argparse</h5>
 </ul>
 
-<h3>Project Contents:<h3><hr>
+<h3>Project Contents:</h3><hr>
 
 <p><li>opencv_face_detector.pbtxt</li></p>
 <p><li>opencv_face_detector_uint8.pb</li></p>
